@@ -1,0 +1,10 @@
+E:\Programs\Chapter 5 Numbers 1, 7, and 10\Distance Calculator (Number 1)\bin\Debug\Distance Calculator (Number 1).exe.config
+E:\Programs\Chapter 5 Numbers 1, 7, and 10\Distance Calculator (Number 1)\bin\Debug\Distance Calculator (Number 1).exe
+E:\Programs\Chapter 5 Numbers 1, 7, and 10\Distance Calculator (Number 1)\bin\Debug\Distance Calculator (Number 1).pdb
+E:\Programs\Chapter 5 Numbers 1, 7, and 10\Distance Calculator (Number 1)\obj\Debug\Distance Calculator (Number 1).csprojAssemblyReference.cache
+E:\Programs\Chapter 5 Numbers 1, 7, and 10\Distance Calculator (Number 1)\obj\Debug\Distance_Calculator__Number_1_.Form1.resources
+E:\Programs\Chapter 5 Numbers 1, 7, and 10\Distance Calculator (Number 1)\obj\Debug\Distance_Calculator__Number_1_.Properties.Resources.resources
+E:\Programs\Chapter 5 Numbers 1, 7, and 10\Distance Calculator (Number 1)\obj\Debug\Distance Calculator (Number 1).csproj.GenerateResource.cache
+E:\Programs\Chapter 5 Numbers 1, 7, and 10\Distance Calculator (Number 1)\obj\Debug\Distance Calculator (Number 1).csproj.CoreCompileInputs.cache
+E:\Programs\Chapter 5 Numbers 1, 7, and 10\Distance Calculator (Number 1)\obj\Debug\Distance Calculator (Number 1).exe
+E:\Programs\Chapter 5 Numbers 1, 7, and 10\Distance Calculator (Number 1)\obj\Debug\Distance Calculator (Number 1).pdb
